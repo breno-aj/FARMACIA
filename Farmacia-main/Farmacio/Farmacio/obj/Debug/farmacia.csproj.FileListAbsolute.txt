@@ -57,3 +57,4 @@ C:\Users\senacadm\Documents\GitHub\FARMACIA\Farmacia-main\Farmacio\Farmacio\obj\
 C:\Users\senacadm\Documents\GitHub\FARMACIA\Farmacia-main\Farmacio\Farmacio\obj\Debug\Farmacio.exe
 C:\Users\senacadm\Documents\GitHub\FARMACIA\Farmacia-main\Farmacio\Farmacio\obj\Debug\Farmacio.pdb
 C:\Users\senacadm\Documents\GitHub\FARMACIA\Farmacia-main\Farmacio\Farmacio\obj\Debug\Farmacio.F_metas.resources
+C:\Users\senacadm\Documents\GitHub\FARMACIA\Farmacia-main\Farmacio\Farmacio\obj\Debug\Farmacio.F_financeiro.resources

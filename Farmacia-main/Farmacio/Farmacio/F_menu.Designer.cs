@@ -46,6 +46,7 @@
             this.btnestoque.TabIndex = 0;
             this.btnestoque.Text = "Estoque";
             this.btnestoque.UseVisualStyleBackColor = true;
+            this.btnestoque.Click += new System.EventHandler(this.btnestoque_Click);
             // 
             // btnanalise
             // 
@@ -56,6 +57,7 @@
             this.btnanalise.TabIndex = 1;
             this.btnanalise.Text = "analise financeira";
             this.btnanalise.UseVisualStyleBackColor = true;
+            this.btnanalise.Click += new System.EventHandler(this.btnanalise_Click);
             // 
             // btnprodutos
             // 
@@ -107,6 +109,7 @@
             this.button1.TabIndex = 7;
             this.button1.Text = "CADASTRO";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // F_menu
             // 

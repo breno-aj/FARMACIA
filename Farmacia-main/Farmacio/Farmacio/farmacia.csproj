@@ -64,6 +64,12 @@
     <Compile Include="F_estoque.Designer.cs">
       <DependentUpon>F_estoque.cs</DependentUpon>
     </Compile>
+    <Compile Include="F_financeiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_financeiro.Designer.cs">
+      <DependentUpon>F_financeiro.cs</DependentUpon>
+    </Compile>
     <Compile Include="F_menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +110,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="F_estoque.resx">
       <DependentUpon>F_estoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_financeiro.resx">
+      <DependentUpon>F_financeiro.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="F_menu.resx">
       <DependentUpon>F_menu.cs</DependentUpon>

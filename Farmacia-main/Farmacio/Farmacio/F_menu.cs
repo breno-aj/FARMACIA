@@ -22,5 +22,26 @@ namespace Farmacio
         {
 
         }
+
+        private void btnestoque_Click(object sender, EventArgs e)
+        {
+            F_estoque janelaestoque = new F_estoque(this);
+            janelaestoque.ShowDialog();
+            this.Close();
+        }
+
+        private void btnanalise_Click(object sender, EventArgs e)
+        {
+            F_financeiro janelafinaceiro = new F_financeiro(this);
+            janelafinaceiro.ShowDialog();
+            this.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            F_adm janelacadastro = new F_adm(this);
+            janelacadastro.ShowDialog();
+            this.Close();
+        }
     }
 }
