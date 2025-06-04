@@ -70,6 +70,18 @@
     <Compile Include="F_menu.Designer.cs">
       <DependentUpon>F_menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="F_menuEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_menuEstoque.Designer.cs">
+      <DependentUpon>F_menuEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_menuVendendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_menuVendendor.Designer.cs">
+      <DependentUpon>F_menuVendendor.cs</DependentUpon>
+    </Compile>
     <Compile Include="F_vendas.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -89,6 +101,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="F_menu.resx">
       <DependentUpon>F_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_menuEstoque.resx">
+      <DependentUpon>F_menuEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_menuVendendor.resx">
+      <DependentUpon>F_menuVendendor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="F_vendas.resx">
       <DependentUpon>F_vendas.cs</DependentUpon>

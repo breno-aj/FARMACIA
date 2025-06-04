@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\senacadm\\Desktop\\Farmacia-main\\Farmacio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|c:\\users\\senacadm\\desktop\\farmacia-main\\farmacio\\farmacio\\f_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|solutionrelative:farmacio\\f_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Desktop\\Farmacia-main\\Farmacio\\Farmacio\\F_menu.cs",
+              "RelativeDocumentMoniker": "Farmacio\\F_menu.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Desktop\\Farmacia-main\\Farmacio\\Farmacio\\F_menu.cs [Design]",
+              "RelativeToolTip": "Farmacio\\F_menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:57:35.434Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

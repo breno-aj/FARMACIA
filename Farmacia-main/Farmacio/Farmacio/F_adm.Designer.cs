@@ -203,12 +203,12 @@
             // 
             this.label8.AutoSize = true;
             this.label8.BackColor = System.Drawing.Color.Transparent;
-            this.label8.Location = new System.Drawing.Point(252, 53);
+            this.label8.Location = new System.Drawing.Point(283, 59);
             this.label8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(260, 13);
+            this.label8.Size = new System.Drawing.Size(240, 13);
             this.label8.TabIndex = 19;
-            this.label8.Text = "FORMULÁRIO DE CADASTRO DE FUNCIONÁRIOS";
+            this.label8.Text = "FORMULÁRIO DE CADASTRO DE VENDEDOR";
             // 
             // cbxcargos
             // 

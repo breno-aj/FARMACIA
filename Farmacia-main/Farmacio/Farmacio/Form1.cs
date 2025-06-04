@@ -16,5 +16,10 @@ namespace Farmacio
         {
             InitializeComponent();
         }
+
+        private void btnentrar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

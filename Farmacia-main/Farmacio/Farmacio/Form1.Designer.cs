@@ -79,6 +79,7 @@
             this.btnentrar.TabIndex = 3;
             this.btnentrar.Text = "entrar";
             this.btnentrar.UseVisualStyleBackColor = true;
+            this.btnentrar.Click += new System.EventHandler(this.btnentrar_Click);
             // 
             // label1
             // 

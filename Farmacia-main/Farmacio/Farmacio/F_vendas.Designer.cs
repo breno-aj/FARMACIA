@@ -41,6 +41,7 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnfinalizar = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -179,7 +180,7 @@
             // 
             // btnfinalizar
             // 
-            this.btnfinalizar.Location = new System.Drawing.Point(317, 337);
+            this.btnfinalizar.Location = new System.Drawing.Point(243, 337);
             this.btnfinalizar.Margin = new System.Windows.Forms.Padding(2);
             this.btnfinalizar.Name = "btnfinalizar";
             this.btnfinalizar.Size = new System.Drawing.Size(70, 27);
@@ -199,12 +200,23 @@
             this.label3.TabIndex = 14;
             this.label3.Text = "PAGAMENTOS";
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(410, 337);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(70, 27);
+            this.button1.TabIndex = 15;
+            this.button1.Text = "verificar";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // F_vendas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Farmacio.Properties.Resources.vecteezy_curve_light_blue_background_abstract_;
             this.ClientSize = new System.Drawing.Size(740, 417);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btnfinalizar);
             this.Controls.Add(this.groupBox1);
@@ -239,5 +251,6 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button btnfinalizar;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button button1;
     }
 }
