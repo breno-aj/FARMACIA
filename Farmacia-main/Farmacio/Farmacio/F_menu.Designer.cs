@@ -35,7 +35,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.lblresultado = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // btnestoque
@@ -101,25 +100,13 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(26, 277);
+            this.button1.Location = new System.Drawing.Point(26, 247);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(109, 27);
             this.button1.TabIndex = 7;
-            this.button1.Text = "CADASTRAR";
+            this.button1.Text = "CADASTRO";
             this.button1.UseVisualStyleBackColor = true;
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
-            "Administrador",
-            "Vendedor",
-            "Estoquista"});
-            this.comboBox1.Location = new System.Drawing.Point(26, 251);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(109, 21);
-            this.comboBox1.TabIndex = 8;
             // 
             // F_menu
             // 
@@ -127,7 +114,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Farmacio.Properties.Resources.vecteezy_curve_light_blue_background_abstract_;
             this.ClientSize = new System.Drawing.Size(786, 468);
-            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lblresultado);
             this.Controls.Add(this.label1);
@@ -153,6 +139,5 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblresultado;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ComboBox comboBox1;
     }
 }

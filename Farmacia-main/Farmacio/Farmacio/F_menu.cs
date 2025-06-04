@@ -12,9 +12,10 @@ namespace Farmacio
 {
     public partial class F_menu : Form
     {
-        public F_menu()
+        public F_menu(Form1 f)
         {
             InitializeComponent();
+            f.Visible = false;
         }
 
         private void F_menu_Load(object sender, EventArgs e)

@@ -19,6 +19,36 @@ namespace Farmacio
 
         private void btnentrar_Click(object sender, EventArgs e)
         {
+            string usuario = tbxusuario.Text.Trim();
+            string senha = tbxsenha.Text.Trim();
+            string perfil = cbxperfil.Text.Trim();
+
+            if (string.IsNullOrEmpty(usuario) || string.IsNullOrEmpty(senha) || string.IsNullOrEmpty(perfil))
+            {
+                MessageBox.Show("Por favor, preencha todos os campos.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (perfil.Equals("administrador", StringComparison.OrdinalIgnoreCase))
+            {
+                F_menu janelaDiretor = new F_menu(this);
+                janelaDiretor.ShowDialog();
+                this.Close();
+            }
+
+            if (perfil.Equals("vendedor", StringComparison.OrdinalIgnoreCase))
+            {
+                F_menuVendendor janelavendedor = new F_menuVendendor(this);
+                janelavendedor.ShowDialog();
+                this.Close();
+            }
+
+            else
+            {
+                MessageBox.Show("Perfil inválido ou sem permissão.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+
 
         }
     }

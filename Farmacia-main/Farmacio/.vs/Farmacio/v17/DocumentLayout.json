@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\senacadm\\Desktop\\Farmacia-main\\Farmacio\\",
+  "WorkspaceRootPath": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|c:\\users\\senacadm\\desktop\\farmacia-main\\farmacio\\farmacio\\f_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|solutionrelative:farmacio\\f_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|c:\\users\\senacadm\\documents\\github\\farmacia\\farmacia-main\\farmacio\\farmacio\\f_menuvendendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|solutionrelative:farmacio\\f_menuvendendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|c:\\users\\senacadm\\documents\\github\\farmacia\\farmacia-main\\farmacio\\farmacio\\f_vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|solutionrelative:farmacio\\f_vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|c:\\users\\senacadm\\documents\\github\\farmacia\\farmacia-main\\farmacio\\farmacio\\f_metas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|solutionrelative:farmacio\\f_metas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|c:\\users\\senacadm\\documents\\github\\farmacia\\farmacia-main\\farmacio\\farmacio\\f_metas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|solutionrelative:farmacio\\f_metas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|c:\\users\\senacadm\\documents\\github\\farmacia\\farmacia-main\\farmacio\\farmacio\\f_menuvendendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|solutionrelative:farmacio\\f_menuvendendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|c:\\users\\senacadm\\documents\\github\\farmacia\\farmacia-main\\farmacio\\farmacio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|solutionrelative:farmacio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|c:\\users\\senacadm\\documents\\github\\farmacia\\farmacia-main\\farmacio\\farmacio\\f_vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|solutionrelative:farmacio\\f_vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|c:\\users\\senacadm\\documents\\github\\farmacia\\farmacia-main\\farmacio\\farmacio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96D9FF5C-1C2D-4918-8CB8-B340D808C04B}|Farmacio\\farmacia.csproj|solutionrelative:farmacio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +42,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "F_menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\senacadm\\Desktop\\Farmacia-main\\Farmacio\\Farmacio\\F_menu.cs",
-              "RelativeDocumentMoniker": "Farmacio\\F_menu.cs",
-              "ToolTip": "C:\\Users\\senacadm\\Desktop\\Farmacia-main\\Farmacio\\Farmacio\\F_menu.cs [Design]",
-              "RelativeToolTip": "Farmacio\\F_menu.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "F_vendas.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_vendas.cs",
+              "RelativeDocumentMoniker": "Farmacio\\F_vendas.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_vendas.cs",
+              "RelativeToolTip": "Farmacio\\F_vendas.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:57:35.434Z",
+              "WhenOpened": "2025-06-04T18:41:58.114Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "F_metas.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_metas.cs",
+              "RelativeDocumentMoniker": "Farmacio\\F_metas.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_metas.cs",
+              "RelativeToolTip": "Farmacio\\F_metas.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:47:33.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_metas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_metas.cs",
+              "RelativeDocumentMoniker": "Farmacio\\F_metas.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_metas.cs [Design]",
+              "RelativeToolTip": "Farmacio\\F_metas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:45:45.899Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_vendas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_vendas.cs",
+              "RelativeDocumentMoniker": "Farmacio\\F_vendas.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_vendas.cs [Design]",
+              "RelativeToolTip": "Farmacio\\F_vendas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:39:29.216Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_menuVendendor.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_menuVendendor.cs",
+              "RelativeDocumentMoniker": "Farmacio\\F_menuVendendor.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_menuVendendor.cs",
+              "RelativeToolTip": "Farmacio\\F_menuVendendor.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:37:47.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\Form1.cs",
+              "RelativeDocumentMoniker": "Farmacio\\Form1.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\Form1.cs",
+              "RelativeToolTip": "Farmacio\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:36:16.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "F_menuVendendor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_menuVendendor.cs",
+              "RelativeDocumentMoniker": "Farmacio\\F_menuVendendor.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\F_menuVendendor.cs [Design]",
+              "RelativeToolTip": "Farmacio\\F_menuVendendor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:36:10.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\Form1.cs",
+              "RelativeDocumentMoniker": "Farmacio\\Form1.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\GitHub\\FARMACIA\\Farmacia-main\\Farmacio\\Farmacio\\Form1.cs [Design]",
+              "RelativeToolTip": "Farmacio\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T18:36:05.779Z",
               "EditorCaption": " [Design]"
             }
           ]

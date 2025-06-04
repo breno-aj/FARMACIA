@@ -54,6 +54,7 @@
             this.btnvendas.TabIndex = 9;
             this.btnvendas.Text = "vendas";
             this.btnvendas.UseVisualStyleBackColor = true;
+            this.btnvendas.Click += new System.EventHandler(this.btnvendas_Click);
             // 
             // btnestoque
             // 
@@ -64,6 +65,7 @@
             this.btnestoque.TabIndex = 6;
             this.btnestoque.Text = "Metas";
             this.btnestoque.UseVisualStyleBackColor = true;
+            this.btnestoque.Click += new System.EventHandler(this.btnestoque_Click);
             // 
             // F_menuVendendor
             // 
@@ -76,6 +78,7 @@
             this.Controls.Add(this.btnestoque);
             this.Name = "F_menuVendendor";
             this.Text = "F_menuVendendor";
+            this.Load += new System.EventHandler(this.F_menuVendendor_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
