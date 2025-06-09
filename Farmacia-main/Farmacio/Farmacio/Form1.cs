@@ -43,6 +43,13 @@ namespace Farmacio
                 this.Close();
             }
 
+            if (perfil.Equals("Estoquista", StringComparison.OrdinalIgnoreCase))
+            {
+                F_menuEstoque janelaEstoque = new F_menuEstoque(this);
+                janelaEstoque.ShowDialog();
+                this.Close();
+            }
+
             else
             {
                 MessageBox.Show("Perfil inválido ou sem permissão.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);

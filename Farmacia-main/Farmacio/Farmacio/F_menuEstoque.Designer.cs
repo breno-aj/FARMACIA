@@ -77,6 +77,7 @@
             this.Controls.Add(this.btnestoque);
             this.Name = "F_menuEstoque";
             this.Text = "F_menuEstoque";
+            this.Load += new System.EventHandler(this.F_menuEstoque_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

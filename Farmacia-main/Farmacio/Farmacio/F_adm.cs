@@ -22,5 +22,15 @@ namespace Farmacio
         {
 
         }
+
+        private void btnvoltar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btncadrastar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

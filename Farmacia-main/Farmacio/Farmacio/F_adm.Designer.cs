@@ -80,6 +80,7 @@
             this.btncadrastar.TabIndex = 4;
             this.btncadrastar.Text = "cadrastrar";
             this.btncadrastar.UseVisualStyleBackColor = true;
+            this.btncadrastar.Click += new System.EventHandler(this.btncadrastar_Click);
             // 
             // btnvoltar
             // 
@@ -90,6 +91,7 @@
             this.btnvoltar.TabIndex = 5;
             this.btnvoltar.Text = "voltar";
             this.btnvoltar.UseVisualStyleBackColor = true;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
             // 
             // label1
             // 

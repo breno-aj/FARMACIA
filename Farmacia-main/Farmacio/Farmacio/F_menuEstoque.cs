@@ -12,12 +12,21 @@ namespace Farmacio
 {
     public partial class F_menuEstoque : Form
     {
-        public F_menuEstoque()
+        private Form1 form1;
+
+        public F_menuEstoque(Form f)
         {
             InitializeComponent();
+            f.Visible = false;
         }
 
+
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void F_menuEstoque_Load(object sender, EventArgs e)
         {
 
         }
