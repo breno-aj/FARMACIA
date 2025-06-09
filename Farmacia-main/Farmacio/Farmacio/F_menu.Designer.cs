@@ -39,57 +39,61 @@
             // 
             // btnestoque
             // 
-            this.btnestoque.Location = new System.Drawing.Point(26, 62);
+            this.btnestoque.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnestoque.Location = new System.Drawing.Point(63, 66);
             this.btnestoque.Margin = new System.Windows.Forms.Padding(2);
             this.btnestoque.Name = "btnestoque";
             this.btnestoque.Size = new System.Drawing.Size(109, 27);
             this.btnestoque.TabIndex = 0;
-            this.btnestoque.Text = "Estoque";
+            this.btnestoque.Text = "ESTOQUE";
             this.btnestoque.UseVisualStyleBackColor = true;
             this.btnestoque.Click += new System.EventHandler(this.btnestoque_Click);
             // 
             // btnanalise
             // 
-            this.btnanalise.Location = new System.Drawing.Point(26, 109);
+            this.btnanalise.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnanalise.Location = new System.Drawing.Point(63, 113);
             this.btnanalise.Margin = new System.Windows.Forms.Padding(2);
             this.btnanalise.Name = "btnanalise";
-            this.btnanalise.Size = new System.Drawing.Size(109, 27);
+            this.btnanalise.Size = new System.Drawing.Size(109, 35);
             this.btnanalise.TabIndex = 1;
-            this.btnanalise.Text = "analise financeira";
+            this.btnanalise.Text = "ANALISE FINANCEIRA";
             this.btnanalise.UseVisualStyleBackColor = true;
             this.btnanalise.Click += new System.EventHandler(this.btnanalise_Click);
             // 
             // btnprodutos
             // 
-            this.btnprodutos.Location = new System.Drawing.Point(26, 158);
+            this.btnprodutos.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnprodutos.Location = new System.Drawing.Point(63, 162);
             this.btnprodutos.Margin = new System.Windows.Forms.Padding(2);
             this.btnprodutos.Name = "btnprodutos";
             this.btnprodutos.Size = new System.Drawing.Size(109, 27);
             this.btnprodutos.TabIndex = 2;
-            this.btnprodutos.Text = "produtos";
+            this.btnprodutos.Text = "PRODUTOS";
             this.btnprodutos.UseVisualStyleBackColor = true;
             // 
             // btnvendas
             // 
-            this.btnvendas.Location = new System.Drawing.Point(26, 204);
+            this.btnvendas.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnvendas.Location = new System.Drawing.Point(63, 208);
             this.btnvendas.Margin = new System.Windows.Forms.Padding(2);
             this.btnvendas.Name = "btnvendas";
             this.btnvendas.Size = new System.Drawing.Size(109, 27);
             this.btnvendas.TabIndex = 3;
-            this.btnvendas.Text = "vendas";
+            this.btnvendas.Text = "VENDAS";
             this.btnvendas.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(60, 23);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(32, 15);
+            this.label1.Size = new System.Drawing.Size(112, 16);
             this.label1.TabIndex = 5;
-            this.label1.Text = "ADM";
+            this.label1.Text = "ADMINSTRAÇÃO";
             // 
             // lblresultado
             // 
@@ -102,7 +106,8 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(26, 247);
+            this.button1.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(63, 251);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(109, 27);

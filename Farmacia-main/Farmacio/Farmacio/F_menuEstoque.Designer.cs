@@ -37,33 +37,35 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(56, 40);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(65, 15);
+            this.label1.Size = new System.Drawing.Size(69, 16);
             this.label1.TabIndex = 10;
             this.label1.Text = "ESTOQUE";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // btnanalise
             // 
+            this.btnanalise.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnanalise.Location = new System.Drawing.Point(37, 128);
             this.btnanalise.Margin = new System.Windows.Forms.Padding(2);
             this.btnanalise.Name = "btnanalise";
             this.btnanalise.Size = new System.Drawing.Size(109, 27);
             this.btnanalise.TabIndex = 7;
-            this.btnanalise.Text = "reposiçao";
+            this.btnanalise.Text = "REPOSIÇÃO";
             this.btnanalise.UseVisualStyleBackColor = true;
             // 
             // btnestoque
             // 
+            this.btnestoque.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnestoque.Location = new System.Drawing.Point(37, 81);
             this.btnestoque.Margin = new System.Windows.Forms.Padding(2);
             this.btnestoque.Name = "btnestoque";
             this.btnestoque.Size = new System.Drawing.Size(109, 27);
             this.btnestoque.TabIndex = 6;
-            this.btnestoque.Text = "Estoque";
+            this.btnestoque.Text = "ESTOQUE";
             this.btnestoque.UseVisualStyleBackColor = true;
             // 
             // F_menuEstoque
