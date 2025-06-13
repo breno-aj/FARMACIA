@@ -33,8 +33,9 @@ namespace Farmacio
         {
             // Conectar ao banco de dados
             // codigo de cadastro de funcionarios
-            String strconn = @"Data Source=;Initial Catalog=Senac;Integrated Security = True";
-                SqlConnection conn = new SqlConnection(strconn);
+            string strconn = ("Data Source=SOB041987L4B1PC\\SQLEXPRESS; " +
+                               "Initial Catalog=Senac;Integrated Security=true");
+            SqlConnection conn = new SqlConnection(strconn);
             string sql = "INSERT INTO funcionarios (nome, cpf, data de nascimento, e-mail, cargos, usuario, senha) " +
                 "VALEU (@nome, @cpf, @datanascimento, @email, @cargos, @usuario, @senha)";
             try
@@ -59,7 +60,7 @@ namespace Farmacio
             }
             finally
             {
-                conn.Closed();
+                conn.Close();
             }
         }
     }
