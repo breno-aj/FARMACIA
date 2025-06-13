@@ -27,5 +27,20 @@ namespace Farmacio
         {
 
         }
+
+        private void btnadicionar_Click(object sender, EventArgs e)
+        {
+            string produto = Convert.ToString (tbxprodutos.Text);
+            Double quantidade = Convert.ToDouble (cbxquantidade.Text);
+            Double preco = Convert.ToDouble (tbxpreco.Text);
+            Double total = Convert.ToDouble (preco * quantidade);
+
+            MessageBox.Show("Total: R$ " + total.ToString());
+        }
+
+        private void btnfinalizar_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
