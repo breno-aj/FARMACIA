@@ -26,6 +26,7 @@ namespace Farmacio
 
         private void btnvoltar_Click(object sender, EventArgs e)
         {
+            Form1 login = new Form1();
 
         }
 
